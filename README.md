@@ -1,8 +1,10 @@
 update
 =========
 
+[![Build Status](https://travis-ci.org/haghighi-ahmad/ansible-role-update.svg?branch=master)](https://travis-ci.org/haghighi-ahmad/ansible-role-update)
+[![Ansible Role](https://galaxy.ansible.com/haghighi_ahmad/update)](https://img.shields.io/ansible/role/42632.svg)
+
 <img src="https://docs.ansible.com/ansible-tower/3.2.4/html_ja/installandreference/_static/images/logo_invert.png" width="10%" height="10%" alt="Ansible logo" align="right"/>
-<a href="https://travis-ci.org/haghighi-ahmad/ansible-role-update"><img src="https://travis-ci.org/haghighi-ahmad/ansible-role-update.svg?branch=master" alt="Build status" align="left"/></a>
 
 Install updates on your system.
 

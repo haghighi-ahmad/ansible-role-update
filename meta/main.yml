@@ -2,7 +2,7 @@
 galaxy_info:
   author: Ahmad Haghighi
   role_name: update
-  description: Install updates on your system.
+  description: Install updates on your system. (Upstream:robertdebock.update)
   license: Apache-2.0
   company: none
   min_ansible_version: 2.6
