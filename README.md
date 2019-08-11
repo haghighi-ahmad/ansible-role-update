@@ -8,7 +8,7 @@ update
 
 Install updates on your system.
 
-**Upstream: [robertdebock.update](https://github.com/robertdebock/ansible-role-update).**
+**Upstream:** [![robertdebock.update](https://img.shields.io/ansible/role/22417.svg)](https://galaxy.ansible.com/robertdebock/update)
 
 Example Playbook
 ----------------
